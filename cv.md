@@ -1,6 +1,7 @@
 ## [rsschool-cv](https://www.linkedin.com/in/mikalai-novikau-6a0824224/overlay/1635500918940/single-media-viewer/)
 ----
 ## Novikau Mikalai
+![my-photo](https://github.com/kolyamoloko/myphoto/blob/main/photonovikaumikalai.jpg?raw=true)
 ****
 ## My Contact Info:
 + Phone: +995 595 88 78 40
